@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ai2o
+- 👀 I’m interested in security
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on projects
